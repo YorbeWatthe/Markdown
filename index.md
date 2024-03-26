@@ -24,7 +24,7 @@
 6. **DNS-aanvallen**, zoals *DNS-spoofing*, kunnen ernstige gevolgen hebben voor de internetveiligheid door *phishing en datalekken* kunnen **belangrijke gebruikergegevens gestolen worden.** Het is daarom van heel belangrijk voor organisaties en individuen om zich bewust te zijn van deze dreigingen en proactieve maatregelen te nemen om zichzelf te beschermen tegen DNS-aanvallen.
 
 *[Ga naar bronnenlijst](bronnenlijst.md)* <br>
-*[Ga naar de presentatie](presentatie.md)*
+*[Ga naar de presentatie](presentatie.html)*
 
 
 
